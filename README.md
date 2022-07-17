@@ -21,9 +21,11 @@ spring.datasource.drive-class-name=org.postgresql.Driver
 spring.datasource.url=jdbc:postgresql://localhost/books
 
 //cambiar el nombre de usuario de la base
+
 spring.datasource.username=postgres
 
 //cambiar la contraseña de la base
+
 spring.datasource.password=Ace5688
 
 server.port=8092
